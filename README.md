@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Semyon
 
-<!--
-**GesuYaro/GesuYaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm student and developer
+- I'm currently studying in ITMO University
+- I'm interested in backend development
 
-Here are some ideas to get you started:
+### Languages and tools
+<i class="programming lang-java"></i>
+<i class="programming lang-python"></i>
+<i class="programming lang-html"></i>
+<i class="programming lang-css"></i>
+<i class="programming lang-javascript"></i>
+<i class="programming lang-c"></i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GesuYaro&show_icons=true&locale=en&layout=compact" alt="here is picture with used languages" />
+
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
